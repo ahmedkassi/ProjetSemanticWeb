@@ -1,4 +1,5 @@
 public class Vehicle {
+//zebi
     private String id;
 
     private double lat;
